@@ -25,13 +25,13 @@ X6 - X11: History of past payment. The researchers tracked the past monthly paym
 - X7 = the repayment status in August, 2005;  
 - . . .;  
 - X11 = the repayment status in April, 2005.  
-The measurement scale for the repayment status is:  
-- -1 = pay duly; 
-- 1 = payment delay for one month; 
-- 2 = payment delay for two months; 
-- . . .; 
-- 8 = payment delay for eight months; 
-- 9 = payment delay for nine months and above.  
+- The measurement scale for the repayment status is:  
+  - -1 = pay duly; 
+  - 1 = payment delay for one month; 
+  - 2 = payment delay for two months; 
+  - . . .; 
+  - 8 = payment delay for eight months; 
+  - 9 = payment delay for nine months and above.  
   
 X12-X17: Amount of bill statement (NT dollar).  
 - X12 = amount of bill statement in September, 2005; 
