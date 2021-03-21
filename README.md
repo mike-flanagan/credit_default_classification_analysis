@@ -14,6 +14,7 @@ Several aspiring data scientists will submit a model and submit predictions. The
   
 ## Attribute Information  
 This dataset employs a binary variable: default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:  
+  
 X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit.  
 X2: Gender (1 = male; 2 = female).  
 X3: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others).  
