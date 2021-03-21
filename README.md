@@ -32,11 +32,13 @@ The measurement scale for the repayment status is:
 - . . .; 
 - 8 = payment delay for eight months; 
 - 9 = payment delay for nine months and above.  
+  
 X12-X17: Amount of bill statement (NT dollar).  
 - X12 = amount of bill statement in September, 2005; 
 - X13 = amount of bill statement in August, 2005; 
 - . . .; 
-- X17 = amount of bill statement in April, 2005.
+- X17 = amount of bill statement in April, 2005.  
+  
 X18-X23: Amount of previous payment (NT dollar):  
 - X18 = amount paid in September, 2005; 
 - X19 = amount paid in August, 2005; 
